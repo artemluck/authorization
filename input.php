@@ -1,6 +1,6 @@
 <html lang="ru">
 <head>
-<title>Лабораторная работа 2</title>
+<title>authorization</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link href="styles/style.css" rel="stylesheet" type="text/css" />
 	<script>
